@@ -8,13 +8,7 @@
 
 
 ## Data
-All datasets (and the queries of different extent, element count, and element selectivity) used in the experiments can be sourced from [https://seafile.rlp.net/d/cf3ecc113a7c4c63baa7](https://seafile.rlp.net/d/cf3ecc113a7c4c63baa7). Put the unzipped files into directory ```samples```.
-| Dataset | Archive | Uncompressed |
-| ------ | ------ | ------ |
-| ECLOG | 88.6 MB | 241.1 MB |
-| WIKIPEDIA | 291.7 MB | 6.3 GB |
-| SYNTHETICS | 3.0 GB | 9.5 GB |
-
+Due to space restrictions, we provide only the ECOLOG real dataset (all tested queries) used in the experiments. The data file archive can be found in the ```samples``` directory; please unzip inside the same directory.
 
 ## Compile
 Compile using ```make all``` or ```make <option>``` where `<option>` can be one of the following:
