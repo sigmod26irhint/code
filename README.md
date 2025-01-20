@@ -7,9 +7,12 @@
 - Boost Library 
 
 
-## Data
-Due to space restrictions, we provide only the ECLOG real dataset (all tested queries) used in the experiments. The data file archive can be found in the ```samples``` directory; please unzip inside the same directory.
-
+All datasets (and the queries of different extent, element count, and element selectivity) used in the experiments can be sourced from the links below. Put the unzipped files into directory ```samples```.
+| Dataset | Archive | Uncompressed |
+| ------ | ------ | ------ |
+| ECLOG | 88.6 MB | 241.1 MB |
+| WIKIPEDIA | 291.7 MB | 6.3 GB |
+| SYNTHETICS | 3.0 GB | 9.5 GB |
 ## Compile
 Compile using ```make all``` or ```make <option>``` where `<option>` can be one of the following:
 - lscan 
