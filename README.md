@@ -8,12 +8,12 @@
 
 
 ## Data
-All datasets (and the queries of different extent, element count, and element selectivity) used in the experiments can be sourced from the links below. Put the unzipped files into directory ```samples```.
+All datasets (and the queries of different extent, element count, and element selectivity) used in the experiments can be sourced from the links provided below. Put the unzipped files into directory ```samples```.
 | Dataset | Archive | Uncompressed | Link |
-| ------ | ------ | ------ | |
-| ECLOG | 88.6 MB | 241.1 MB | | |
-| WIKIPEDIA | 291.7 MB | 6.3 GB | |
-| SYNTHETICS | 3.0 GB | 9.5 GB | |
+| ------ | ------ | ------ | ------ |
+| ECLOG | 88.6 MB | 241.1 MB | [eclog.zip](https://www.mediafire.com/file/zrib8v9snovf9sj/eclog.zip/file) |
+| WIKIPEDIA | 291.7 MB | 6.3 GB | [wikipedia.zip](https://www.mediafire.com/file/jc3lpopob2bs3ru/wikipedia.zip/file) |
+| SYNTHETICS | 3.0 GB | 9.5 GB | [synthetic.zip](https://www.mediafire.com/file/bn8fmq0y7l4jtct/synthetic.zip/file), [synthetic.z01](https://www.mediafire.com/file/sc92doupqdeuij3/synthetic.z01/file), [synthetic.z02](https://www.mediafire.com/file/wzjcj0im5fzf0ei/synthetic.z02/file), [synthetic.z03](https://www.mediafire.com/file/fcd6ab23id9c0uw/synthetic.z03/file), [synthetic.z04](https://www.mediafire.com/file/ev9ura22lc3lme2/synthetic.z04/file), [synthetic.z05](https://www.mediafire.com/file/2em8hwzrprd85xi/synthetic.z05/file) |
 
 
 ## Compile
