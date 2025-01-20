@@ -8,7 +8,7 @@
 
 
 ## Data
-Due to space restrictions, we provide only the ECOLOG real dataset (all tested queries) used in the experiments. The data file archive can be found in the ```samples``` directory; please unzip inside the same directory.
+Due to space restrictions, we provide only the ECLOG real dataset (all tested queries) used in the experiments. The data file archive can be found in the ```samples``` directory; please unzip inside the same directory.
 
 ## Compile
 Compile using ```make all``` or ```make <option>``` where `<option>` can be one of the following:
