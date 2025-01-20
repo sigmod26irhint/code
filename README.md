@@ -8,7 +8,7 @@
 
 
 ## Data
-All datasets (and the queries of different extent, element count, and element selectivity) used in the experiments can be sourced from the links provided below. Put the unzipped files into directory ```samples```.
+All datasets (and the queries of different extent, element count, and element selectivity) used in the experiments can be sourced from the links provided below. Put and extract the archive files into the ```samples``` directory.
 | Dataset | Archive | Uncompressed | Link(s) |
 | ------ | ------ | ------ | ------ |
 | ECLOG | 88.6 MB | 241.1 MB | [eclog.zip](https://www.mediafire.com/file/zrib8v9snovf9sj/eclog.zip/file) |
